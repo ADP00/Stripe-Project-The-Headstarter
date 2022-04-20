@@ -58,7 +58,7 @@ var stripeHandler = StripeCheckout.configure({
             return res.json();
         }).then(function(data){
             alert(data.message);
-            var cartItems = dpcument.getElementsByClassName('cart-items')[0];
+            var cartItems = document.getElementsByClassName('cart-items')[0];
             while(cartItems.hasChildNodes()) {
                 cartItems.removeChild(cartItems.firstChild);
             }
