@@ -2,19 +2,19 @@
   "music": [
     {
       "id": 1,
-      "name": "Album 1",
+      "name": "Bumper",
       "price": 1299,
       "imgName": "Bumper.png"
     },
     {
       "id": 2,
-      "name": "Album 2",
+      "name": "Carplay",
       "price": 1499,
       "imgName": "Carplay.png"
     },
     {
       "id": 4,
-      "name": "Album 4",
+      "name": "Strut",
       "price": 1999,
       "imgName": "Strut.PNG"
     }
@@ -22,19 +22,19 @@
   "merch": [
     {
       "id": 5,
-      "name": "T-Shirt",
+      "name": "Taillight",
       "price": 1999,
       "imgName": "Taillight.PNG"
     },
     {
       "id": 6,
-      "name": "Coffee Cup",
+      "name": "Tires",
       "price": 699,
       "imgName": "Tires.png"
     },
     {
       "id": 3,
-      "name": "Album 3",
+      "name": "Roofrack",
       "price": 999,
       "imgName": "Roofrack.PNG"
     }
